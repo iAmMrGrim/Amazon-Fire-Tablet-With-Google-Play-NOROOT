@@ -117,7 +117,6 @@ Fire HD 6
 
 Fire HDX 8.9
 
-
 3)
 
 Google Play Services
