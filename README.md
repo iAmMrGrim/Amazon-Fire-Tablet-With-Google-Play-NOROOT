@@ -62,13 +62,12 @@ Fire HDX 8.9
 
 ^
 
+2)
+
 Google Services Framework
 Fire HD 10 (9th Gen, 11th Gen)
 
 https://www.apkmirror.com/apk/google-inc/google-services-framework/google-services-framework-9-4832352-release/google-services-framework-9-4832352-android-apk-download/
-
-
-2)
 
 Google Services Framework v9-4832352
 
